@@ -1,0 +1,9 @@
+
+
+├── data
+│   ├── api             // Contains Retrofit API interfaces and networking-related classes
+│   ├── model           // Contains data models (DTOs i.e. data transfer objects) used in the network responses
+│   └── repository      // Contains repository classes that handle data operations
+├── di                  // Contains Dependency Injection classes if using Hilt/Dagger
+├── ui                  // Contains Activities, Fragments, and ViewModels for UI
+└── util                // Contains utility classes, like for logging or constants

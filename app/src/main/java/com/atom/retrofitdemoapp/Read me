@@ -1,0 +1,7 @@
+1. prerequisites:
+    i. add internet permission in manifest file
+    ii. add retrofit dependencies and gson converter factory
+    iii. for coroutines add dependencies
+    note: coroutines help to manage long-running tasks that might otherwise block the main thread and cause app to unresponsive
+
+2. make necessary packages with naming convention and classes and interfaces
